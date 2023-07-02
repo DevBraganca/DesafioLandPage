@@ -1,0 +1,72 @@
+*{
+    font-family: 'Inter', sans-serif;
+    margin: 0%;
+}
+#superior{
+    background-color: #303030 ;
+    color: #FFFFFF;
+    padding-top: 130px;
+    padding-left: 20px;
+    font-size: 20px;
+    Width: 915px ;
+    Height: 220px ;
+}
+#paragrafosuperior{
+    font-size: 15px;
+}
+#informativo{
+    padding: 50px 0px 0px 30px;
+    background-color: #F9F9F9 ;
+    color: black;
+    Width: 915px ;
+    Height: 130px ;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+#infosala{
+    color: black;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    
+}
+#textotitulo{
+    font-size: 21px;
+}
+#texto{
+    font-size: 13px;
+}
+#imagesala{
+    margin: 50px 0px 30px 0px ;
+    Width:410px;
+    Height:405px;
+   
+}
+#textoimagemsala{
+    margin: 160px 50px 0px 60px;
+}
+#formulario{
+    background-color: #303030;
+    color: aliceblue;
+    Width:940px;
+    Height:438px;
+    text-align: center;
+    padding: 70px 0px 70px 0px;
+}
+#caixa{
+    margin: 20px 0px 20px 0px;
+    border-radius: 10px;
+    Width:310px;
+    Height:50px;
+    
+}
+#button{
+    background-color: #C07212;
+    color: #F9F9F9;
+    margin-top: 20px;
+    Width:186px;
+    Height:44px;
+    border-radius: 10px;
+
+}
